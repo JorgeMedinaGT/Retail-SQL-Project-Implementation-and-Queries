@@ -1,1 +1,1 @@
-# SQL-Portfolio-Queries-Database-Design
+# Retail SQL Project (Implementation and queries)
